@@ -3,27 +3,39 @@ title: Primitivos
 description: Tipos de variables primitivas (son estáticas).
 ---
 
-## Como crear variables
-Para crear variables, es lo mas básico de todo JS, la forma recomendada de hacerlo es de la siguiente manera:
+## Cuales son las variables Primitivas
+Las variables  primitivas son las siguientes:
+- Number
+- String
+- Boolean
+- Undefined
+- Null
 
-### Let
-let, normalmente se utiliza, para crear variables que puedan ser modificadas a lo largo del código.
-```js {8} title="01-variables.js (let)"
-let nombre = "Gustavo"; // Declaramos la variable "nombre", con el valor "Gustavo"
+```js title="02-primitivos.js"
+let numero = 1; // Number
+let texto = "Esto es un string"; // String
 
-let nombreCompleto; // Declaramos la variable "nombreCompleto"
-nombreCompleto = "Gustavo Pérez"; // Añadimos el valor a la variable
+let verdadero = true; // Boolean
+let falso = false; // Boolean
 
-console.log(nombreCompleto); // Pedimos a la consola que nos muestre los datos
+let noDefinido; // Undefined
+let undef = undefined; // Undefined
+
+let nulo = null; // Null
 ```
-### Const
-const, en cambio se utiliza para crear variables que no se pueden modificar.
 
-```js {8} title="01-variables.js (const)"
-const nombre = "Gustavo"; // Declaramos la variable "nombre", con el valor "Gustavo"
+Si le añadimos a cada uno de estos un `console.log()`, veremos los siguientes resultados.
 
-const nombreCompleto; // Declaramos la variable "nombreCompleto"
-nombreCompleto = "Completo"; // Añadimos el valor a la variable
+```js title="02-primitivos.js (+ console.log)"
+let numero = 1; // Number
+let texto = "Esto es un string"; // String
 
-console.log(nombreCompleto); // Pedimos a la consola que nos muestre los datos
+let verdadero = true; // Boolean
+let falso = false; // Boolean
+
+let noDefinido; // Undefined
+let undef = undefined; // Undefined
+
+let nulo = null; // Null
+
 ```

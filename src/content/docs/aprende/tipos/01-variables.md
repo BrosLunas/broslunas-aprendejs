@@ -16,6 +16,9 @@ nombreCompleto = "Gustavo Pérez"; // Añadimos el valor a la variable
 
 console.log(nombreCompleto); // Pedimos a la consola que nos muestre los datos
 ```
+Así es como debería salirte en la consola
+![Console](/img/01-tipos/01-variables.png)
+
 ### Const
 const, en cambio se utiliza para crear variables que no se pueden modificar.
 
@@ -27,3 +30,5 @@ nombreCompleto = "Completo"; // Añadimos el valor a la variable
 
 console.log(nombreCompleto); // Pedimos a la consola que nos muestre los datos
 ```
+Así es como debería salirte en la consola
+![Console](/img/01-tipos/01-variables.png)

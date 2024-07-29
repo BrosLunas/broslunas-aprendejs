@@ -1,6 +1,6 @@
 let nombre = "Gustavo";
 
 let nombreCompleto;
-nombreCompleto = "Completo";
+nombreCompleto = "Gustavo Pérez";
 
 console.log(nombreCompleto);
