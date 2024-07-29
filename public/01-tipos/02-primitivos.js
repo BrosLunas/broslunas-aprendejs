@@ -8,3 +8,10 @@ let noDefinido; // Undefined
 let undef = undefined; // Undefined
 
 let nulo = null; // Null
+
+console.log(numero);
+console.log(texto);
+console.log(verdadero);
+console.log(falso);
+console.log(undef);
+console.log(nulo);

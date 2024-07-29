@@ -24,9 +24,9 @@ let undef = undefined; // Undefined
 let nulo = null; // Null
 ```
 
-Si le añadimos a cada uno de estos un `console.log()`, veremos los siguientes resultados.
+Si le añadimos a cada uno de estos un `console.log()`.
 
-```js title="02-primitivos.js (+ console.log)"
+```js {12, 13, 14, 15, 16, 17} title="02-primitivos.js (+ console.log)"
 let numero = 1; // Number
 let texto = "Esto es un string"; // String
 
@@ -38,4 +38,12 @@ let undef = undefined; // Undefined
 
 let nulo = null; // Null
 
+console.log(numero);
+console.log(texto);
+console.log(verdadero);
+console.log(falso);
+console.log(undef);
+console.log(nulo);
 ```
+El resultado de este `console.log()`
+![Console](/img/01-tipos/02-primitivos.png)

@@ -14,3 +14,6 @@ A lo largo de este curso aprenderás lo básico para que empieces a usar JavaScr
 - [Tipos](/aprende/tipos)
     - [Variables](/aprende/tipos/01-variables)
     - [Primitivos](/aprende/tipos/02-primitivos)
+
+
+# a

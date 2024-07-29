@@ -46,7 +46,7 @@ export default defineConfig({
     expressiveCode: {
       themes: ['github-dark']
     },
-    pagination: false,
+    pagination: true,
     lastUpdated: true
   })],
   output: "static"
