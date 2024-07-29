@@ -20,3 +20,4 @@ A lo largo de este curso aprenderás lo básico para que empieces a usar JavaScr
     - [Arrays](/tipos-y-variables/06-arrays/)
     - [Funciones](/tipos-y-variables/07-funciones/)
     - [Argumentos](/tipos-y-variables/08-argumentos/)
+- [Operadores](/operadores)
