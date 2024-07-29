@@ -43,3 +43,4 @@ Ahora con esto visualizaremos cuales son todos los argumentos de esta función y
 
 ### Resultado
 ![Console Result](/img/01-tipos-y-variables/08-argumentos-2.png)
+## [Ver Archivo JS](/js/01-tipos-y-variables/08-argumentos.js)

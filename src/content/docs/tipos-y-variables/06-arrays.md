@@ -49,3 +49,4 @@ console.log(animales.length); // Ver el numero de objetos dentro del array
 
 ### Resultado
 ![Console Result](/img/01-tipos-y-variables/06-arrays-3.png)
+## [Ver Archivo JS](/js/01-tipos-y-variables/06-arrays.js)

@@ -47,3 +47,4 @@ console.log(nulo);
 ```
 El resultado de este `console.log()`
 ![Console Result](/img/01-tipos-y-variables/02-primitivos.png)
+## [Ver Archivo JS](/js/01-tipos-y-variables/02-primitivos.js)

@@ -26,3 +26,5 @@ Al visualizar la consola del navegador obtendremos los siguientes datos del `con
 ![Console Result](/img/01-tipos-y-variables/03-tipado-dinamico.png)
 
 Como podemos observar, `null` nos esta devolviendo que es un `object`, mas adelante podremos observar porque sucede esto.
+
+## [Ver Archivo JS](/js/01-tipos-y-variables/03-tipado-dinamico.js)

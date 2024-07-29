@@ -32,3 +32,5 @@ console.log(nombreCompleto); // Pedimos a la consola que nos muestre los datos
 ```
 Así es como debería salirte en la consola
 ![Console Result](/img/01-tipos-y-variables/01-variables.png)
+
+## [Ver Archivo JS](/js/01-tipos-y-variables/01-variables.js)

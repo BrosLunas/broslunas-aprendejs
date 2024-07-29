@@ -28,3 +28,5 @@ lineas
  * varias lineas
  */
 ```
+
+## [Ver Archivo JS](/js/01-tipos-y-variables/04-comentarios.js)

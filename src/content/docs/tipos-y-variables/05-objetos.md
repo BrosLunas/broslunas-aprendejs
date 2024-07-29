@@ -35,3 +35,5 @@ console.log(personaje); // Verificar si la variable está eliminada
 
 ## Resultado
 ![Console Result Result](/img/01-tipos-y-variables/05-objetos.png)
+
+## [Ver Archivo JS](/js/01-tipos-y-variables/05-objetos.js)

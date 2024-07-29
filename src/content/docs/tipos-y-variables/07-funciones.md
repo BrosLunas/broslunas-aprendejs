@@ -60,3 +60,4 @@ Con esto lo que hacemos es que nos imprima directamente la función en la consol
 ### Resultado
 El resultado de ambos métodos es el mismo.
 ![Console Result](/img/01-tipos-y-variables/07-funciones-2.png)
+## [Ver Archivo JS](/js/01-tipos-y-variables/07-funciones.js)
