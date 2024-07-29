@@ -4,7 +4,5 @@ function sumar(a, b) {
     return a + b;
 }
 
-let resultado = sumar(5, 6, 1, 3, 50);
+let resultado = sumar(5, 4);
 console.log(resultado);
-
-console.log(typeof sumar)

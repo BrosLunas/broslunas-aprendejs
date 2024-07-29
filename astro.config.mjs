@@ -19,9 +19,19 @@ export default defineConfig({
       label: '[list] Novedades',
       link: '/novedades/'
     }, {
-      label: '[box] Aprende JS',
+      label: '[book] Introducción',
       autogenerate: {
-        directory: 'aprende'
+        directory: 'intro'
+      }
+    }, {
+      label: '[list] Tipos y Variables',
+      autogenerate: {
+        directory: 'tipos-y-variables'
+      }
+    }, {
+      label: '[list] Operadores',
+      autogenerate: {
+        directory: 'operadores'
       }
     }, {
       label: '[book] Referencias',
