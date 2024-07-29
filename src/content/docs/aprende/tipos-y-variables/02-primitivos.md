@@ -46,4 +46,4 @@ console.log(undef);
 console.log(nulo);
 ```
 El resultado de este `console.log()`
-![Console Result](/img/01-tipos/02-primitivos.png)
+![Console Result](/img/01-tipos-y-variables/02-primitivos.png)

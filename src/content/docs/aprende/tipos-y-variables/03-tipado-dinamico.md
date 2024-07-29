@@ -23,6 +23,6 @@ console.log(typeof nulo); // null --> object
 ## Resultado
 Al visualizar la consola del navegador obtendremos los siguientes datos del `console.log()`.
 
-![Console Result](/img/01-tipos/03-tipado-dinamico.png)
+![Console Result](/img/01-tipos-y-variables/03-tipado-dinamico.png)
 
 Como podemos observar, `null` nos esta devolviendo que es un `object`, mas adelante podremos observar porque sucede esto.

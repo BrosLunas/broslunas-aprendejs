@@ -11,9 +11,10 @@ A lo largo de este curso aprenderás lo básico para que empieces a usar JavaScr
 
 ### Índice
 - [Introducción](/aprende/introduccion)
-- [Tipos](/aprende/tipos)
-    - [Variables](/aprende/tipos/01-variables)
-    - [Primitivos](/aprende/tipos/02-primitivos)
-
-
-# a
+- [Tipos y Variables](/aprende/tipos-y-variables)
+    - [Variables](/aprende/tipos-y-variables/01-variables)
+    - [Primitivos](/aprende/tipos-y-variables/02-primitivos)
+    - [Tipado Dinamico](/aprende/tipos-y-variables/03-tipado-dynamico)
+    - [Comentarios](/aprende/tipos-y-variables/04-comentarios)
+    - [Objetos](/aprende/tipos-y-variables/05-objetos)
+    - [Arrays](/aprende/tipos-y-variables/06-arrays)

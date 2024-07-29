@@ -18,7 +18,7 @@ console.log(animales[0]); // Visualizar el elemento 0
 ```
 
 ### Resultado
-![Console Result](/img/01-tipos/06-arrays-1.png)
+![Console Result](/img/01-tipos-y-variables/06-arrays-1.png)
 
 ## Añadir elemento a un array
 ```js {6, 7} title="06-arrays.js (Console Log)"
@@ -32,7 +32,7 @@ console.log(animales);
 ```
 
 ### Resultado
-![Console Result](/img/01-tipos/06-arrays-2.png)
+![Console Result](/img/01-tipos-y-variables/06-arrays-2.png)
 
 ## Ver la longitud de un array
 ```js {9} title="06-arrays.js (Console Log)"
@@ -48,4 +48,4 @@ console.log(animales.length); // Ver el numero de objetos dentro del array
 ```
 
 ### Resultado
-![Console Result](/img/01-tipos/06-arrays-3.png)
+![Console Result](/img/01-tipos-y-variables/06-arrays-3.png)

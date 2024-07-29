@@ -34,4 +34,4 @@ console.log(personaje); // Verificar si la variable está eliminada
 ```
 
 ## Resultado
-![Console Result Result](/img/01-tipos/05-objetos.png)
+![Console Result Result](/img/01-tipos-y-variables/05-objetos.png)
