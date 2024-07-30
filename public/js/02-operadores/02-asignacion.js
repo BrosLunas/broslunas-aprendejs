@@ -9,7 +9,7 @@ a += 5; // Sumar 5 a la variable 'a'
 b -= 5; // Restar 5 a la variable 'a'
 c *= 5; // Multiplicar 5 a la variable 'a'
 d /= 5; // Dividir 5 a la variable 'a'
-e %= 5; // Módulo 5 a la variable 'a'
+e %= 5; // Módulo de 5 a la variable 'a'
 f **= 5; // Potencia 5 a la variable 'a'
 
 console.log('Sumar: ', a);
