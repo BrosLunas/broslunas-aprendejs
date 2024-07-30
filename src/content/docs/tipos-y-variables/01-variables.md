@@ -1,8 +1,7 @@
 ---
 title: Variables
-description: Una breve introducción de JavaScript.
+description: Una breve introducción de JavaScript.¡
 ---
-
 ## Como crear variables
 Para crear variables, es lo mas básico de todo JS, la forma recomendada de hacerlo es de la siguiente manera:
 

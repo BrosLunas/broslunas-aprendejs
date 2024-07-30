@@ -2,7 +2,7 @@
 title: Asignación
 description: Los operadores de Asignación
 ---
-# Creamos las operaciones
+## Creamos las operaciones
 Los operadores de Asignación, son diferentes formas de calcular diferentes operaciones.
 ```js title="02-asignacion.js"
 // Creamos las variables
