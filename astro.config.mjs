@@ -36,6 +36,11 @@ export default defineConfig({
         directory: 'operadores'
       }
     }, {
+      label: '[list] Control de Flujo',
+      autogenerate: {
+        directory: 'control-flujo'
+      }
+    }, {
       label: '[book] Referencias',
       autogenerate: {
         directory: 'referencias'
