@@ -26,4 +26,4 @@ A lo largo de este curso aprenderás lo básico para que empieces a usar JavaScr
     - [Comparación](/operadores/03-comparacion/)
     - [Lógicos](/operadores/04-logicos/)
     - [Falsy](/operadores/05-falsy/)
-    - [Ternarios](/intro/#noDisponible) **Próximamente**
+    - [Ternario](/operadores/06-ternario/)

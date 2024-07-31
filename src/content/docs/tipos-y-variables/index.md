@@ -1,5 +1,5 @@
 ---
-title: Tipos y Variables
+title: Introducción
 description: Aquí aprenderás como usar las variables de forma simple pero completa.
 ---
 

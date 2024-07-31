@@ -1,5 +1,5 @@
 ---
-title: Introducción a los operadores
+title: Introducción
 description: Aquí aprenderás como usar los operadores de forma simple pero completa.
 ---
 
