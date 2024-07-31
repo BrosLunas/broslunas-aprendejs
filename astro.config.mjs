@@ -7,7 +7,22 @@ import sitemap from "@astrojs/sitemap";
 export default defineConfig({
   site: 'https://aprendejs.broslunas.com',
   integrations: [starlight({
-    title: 'Broslunas Aprende JS',
+    title: {
+      es: 'Broslunas Aprende JS',
+      'en': 'Broslunas Learn JS',
+    },
+    defaultLocale: 'root', // optional
+    locales: {
+      root: {
+        label: 'Español',
+        lang: 'es', // lang is required for root locales
+      },
+        // Simplified Chinese docs in `src/content/docs/zh-cn/`
+        'en': {
+          label: 'English',
+          lang: 'en',
+        },
+      },
     logo: {
       src: './src/assets/ion-logo.svg'
     },
@@ -60,6 +75,7 @@ export default defineConfig({
     },
     pagination: true,
     lastUpdated: true
-  }), sitemap()],
+  }),
+   sitemap()],
   output: "static"
 });
