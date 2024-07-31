@@ -34,3 +34,7 @@ A lo largo de este curso aprenderás lo básico para que empieces a usar JavaScr
 - [Loop Infinito](/control-flujo/04-loop-infinito/)
 - [Do While](/control-flujo/05-do-while/)
 - [For](/control-flujo/06-for/)
+- [For of](/control-flujo/07-for-of/)
+- [For in](/control-flujo/08-for-in/)
+- [Break & Continue](/control-flujo/09-break-continue/)
+- [Switch](/control-flujo/10-switch/)
