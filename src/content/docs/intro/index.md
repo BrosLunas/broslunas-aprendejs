@@ -21,3 +21,9 @@ A lo largo de este curso aprenderás lo básico para que empieces a usar JavaScr
     - [Funciones](/tipos-y-variables/07-funciones/)
     - [Argumentos](/tipos-y-variables/08-argumentos/)
 - [Operadores](/operadores)
+    - [Aritméticos](/operadores/01-aritmeticos/)
+    - [Asignación](/operadores/02-asignacion/)
+    - [Comparación](/operadores/03-comparacion/)
+    - [Lógicos](/operadores/04-logicos/)
+    - [Falsy](/operadores/05-falsy/)
+    - [Ternarios](/intro/#noDisponible) **Próximamente**
