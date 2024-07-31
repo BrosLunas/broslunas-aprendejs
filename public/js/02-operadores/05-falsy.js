@@ -1,11 +1,3 @@
-// --> Falso
-// boolean: false
-// 0
-// ''
-// null
-// undefined
-// NaN
-
 // Ejemplo con OR = ||
 let nombre = '';
 let username = nombre || 'Username';

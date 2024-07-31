@@ -1,21 +1,36 @@
 ---
-title: Lógicos
-description: Los operadores Lógicos son los que se utilizan de forma lógica, como el "y", "o", entre otros.
+title: Falsy
+description: Los operadores Falsy.
 ---
-
-## Que son los operadores Lógicos
-Los operadores Lógicos son los que se utilizan de forma lógica, como el "y", "o", entre otros.
-
 ## Operador lógico AND `&&` 
-```js {5} title="04-logicos.js (AND "&&")"
-let mayor = false;
-let suscrito = true;
+```js {4, 9, 13} title="05-falsy.js (Ejemplo AND "&&")"
+// Ejemplo con AND = &&
+function fn1() {
+    console.log('soy función 1');
+    return false;
+    // Declaramos una función que nos devuelva false
+}
 
-// AND = &&
-console.log('Operador AND: ', mayor && suscrito); // false
-// El operador AND, devuelve "true", solo cuando ambas variables es true, si alguna de estas es false, el operador AND, devuelve "false"
+function fn2() {
+    console.log('soy función 2');
+    return true;
+    // Declaramos una función que nos devuelva true
+}
+
+let x = fn1() && fn2();
+// Creamos una variable que diga que si una función sea true nos devuelva ese console log
 ```
 ### Resultado
-![Console Result](/img/02-operadores/04-logicos-1.png)
+![Console Result](/img/02-operadores/05-falsy-1.png)
+
+## Operador lógico OR `||` 
+```js {3} title="05-falsy.js (Ejemplo OR "||")"
+// Ejemplo con OR = ||
+let nombre = ''; // Creamos una variable sin ningún valor
+let username = nombre || 'Username'; // Creamos otra variable que el valor es "nombre" y si esta es igual a "undefined" el valor de username es 'Username'
+console.log(username);
+```
+### Resultado
+![Console Result](/img/02-operadores/05-falsy-2.png)
 
 ## [Ver Archivo JS](/js/02-operadores/05-falsy.js)
