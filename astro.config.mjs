@@ -9,7 +9,7 @@ export default defineConfig({
   integrations: [starlight({
     title: {
       es: 'Broslunas Aprende JS',
-      'en': 'Broslunas Learn JS',
+      en: 'Broslunas Learn JS',
     },
     defaultLocale: 'root', // optional
     locales: {
@@ -17,7 +17,6 @@ export default defineConfig({
         label: 'Español',
         lang: 'es', // lang is required for root locales
       },
-        // Simplified Chinese docs in `src/content/docs/zh-cn/`
         'en': {
           label: 'English',
           lang: 'en',
@@ -33,27 +32,9 @@ export default defineConfig({
       label: '[home] Inicio',
       link: '/'
     }, {
-      label: '[list] Novedades',
-      link: '/novedades/'
-    }, {
       label: '[book] Introducción',
       autogenerate: {
-        directory: 'intro'
-      }
-    }, {
-      label: '[list] Tipos y Variables',
-      autogenerate: {
-        directory: 'tipos-y-variables'
-      }
-    }, {
-      label: '[list] Operadores',
-      autogenerate: {
-        directory: 'operadores'
-      }
-    }, {
-      label: '[list] Control de Flujo',
-      autogenerate: {
-        directory: 'control-flujo'
+        directory: 'introduccion'
       }
     }, {
       label: '[book] Referencias',
