@@ -17,7 +17,7 @@ export default defineConfig({
         label: 'Español',
         lang: 'es', // lang is required for root locales
       },
-        'en': {
+        en: {
           label: 'English',
           lang: 'en',
         },
@@ -30,14 +30,23 @@ export default defineConfig({
     },
     sidebar: [{
       label: '[home] Inicio',
+      translations: {
+        en: '[home] Home'
+      },
       link: '/'
     }, {
       label: '[book] Introducción',
+      translations: {
+        en: '[book] Introduction'
+      },
       autogenerate: {
         directory: 'introduccion'
       }
     }, {
       label: '[book] Referencias',
+      translations: {
+        en: '[book] Referencies'
+      },
       autogenerate: {
         directory: 'referencias'
       }
