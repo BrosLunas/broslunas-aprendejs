@@ -2,11 +2,6 @@
 title: The browser console
 description: The console allows us to run JavaScript code in real time and see the result.
 ---
-
-<video class="container video" controls>
-<source src="/assets/video/introduccion/consola.mp4" type="video/mp4">
-</video>
-
 To be able to follow the course and test what you are doing, you will need a web browser for now. You probably already have one installed, if not, I recommend that you install Google Chrome or Brave Browser.
 
 All browsers have a tool called console. The console allows us to run JavaScript code in real time and see the result. There we can also see the errors, warnings and traces that occur in our code.

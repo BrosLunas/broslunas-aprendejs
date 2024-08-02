@@ -3,10 +3,6 @@ title: What is JavaScript?
 description: JavaScript is one of the most popular and widely used programming languages ​​in the world. It was created in 1995 to provide interactivity to web pages and has since evolved into a general-purpose programming language. In other words, it can be used for almost anything.
 ---
 
-<video class="container video" controls>
-<source src="/assets/video/introduccion/intro-js.mp4" type="video/mp4">
-</video>
-
 ## Information
 JavaScript is one of the most popular and widely used programming languages ​​in the world. It was created in 1995 to provide interactivity to web pages and has since evolved into a general-purpose programming language. In other words, it can be used for almost anything.
 
