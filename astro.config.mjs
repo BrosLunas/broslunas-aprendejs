@@ -30,6 +30,7 @@ export default defineConfig({
       src: './src/assets/ion-logo.svg'
     },
     social: {
+      instagram: 'https://link.broslunas.com/rss/instagram',
       github: 'https://github.com/Broslunas'
     },
     sidebar: [{
