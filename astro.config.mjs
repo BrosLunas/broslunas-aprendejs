@@ -13,9 +13,9 @@ export default defineConfig({
     },
     defaultLocale: 'root', // optional
     locales: {
-      root: {
-        label: 'Español',
-        lang: 'es', // lang is required for root locales
+        root: {
+          label: 'Español',
+          lang: 'es', // lang is required for root locales
       },
         en: {
           label: 'English',
@@ -46,6 +46,14 @@ export default defineConfig({
       },
       autogenerate: {
         directory: 'introduccion'
+      }
+    }, {
+      label: '[list] Estructuras de control',
+      translations: {
+        en: '[list] Control structures'
+      },
+      autogenerate: {
+        directory: 'estructuras-de-control'
       }
     }, {
       label: '[book] Referencias',

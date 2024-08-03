@@ -3,7 +3,8 @@
 	--sl-color-accent-low: #302100;
 	--sl-color-accent: #866300;
 	--sl-color-accent-high: #d9c6a2;
-	--sl-color-white: #ffffff;
+	--sl-color-ultra-white: #ffffff;
+	--sl-color-white: #c8c660;
 	--sl-color-gray-1: #ededf2;
 	--sl-color-gray-2: #c1c1c7;
 	--sl-color-gray-3: #8a8a95;
@@ -24,7 +25,7 @@
 	--sl-color-gray-4: #8a8a95;
 	--sl-color-gray-5: #c1c1c7;
 	--sl-color-gray-6: #ededf2;
-	--sl-color-gray-7: #f6f6f8;
+	--sl-color-gray-7: #f8f8f6;
 	--sl-color-black: #ffffff;
 }
 
@@ -58,12 +59,12 @@ header.header {
 .site-title > span {
   display: flex;
   gap: 0.5rem;
-  color: var(--sl-color-white);
+  color: var(--sl-color-ultra-white);
 }
 
 /* Change link color for icons from accent-light to white */
 .social-icons a {
-  color: var(--sl-color-white);
+  color: var(--sl-color-ultra-white);
 }
 
 /* Add border-radius to card, change padding, add transition */
