@@ -8,7 +8,7 @@ All browsers have a tool called console. The console allows us to run JavaScript
 
 Although we can run JavaScript code in other ways, to start, we are going to use this tool that the browser offers us.
 
-:::note
+:::tip
 Remember that we call code the instructions that we give to the computer to do something.
 :::
 

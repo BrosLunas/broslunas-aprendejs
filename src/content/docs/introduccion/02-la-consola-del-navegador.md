@@ -14,7 +14,7 @@ Todos los navegadores tienen una herramienta llamada consola. La consola nos per
 
 Aunque podemos ejecutar código JavaScript de otras formas, para empezar, vamos a usar esta herramienta que nos ofrece el navegador.
 
-:::note
+:::tip
 Recuerda que llamamos código a las instrucciones que le damos a la computadora para que haga algo.
 :::
 

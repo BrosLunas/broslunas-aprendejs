@@ -34,7 +34,7 @@ No sólo podemos usar los comparadores para comparar números, también podemos 
 "JavaScript" !== 'PHP' // true
 `Estoy Aprendiendo JavaScript` === 'Estoy Aprendiendo JavaScript' // true
 ```
-:::note
+:::tip
 Fíjate que puedes comparar cadenas de texto que usan comillas simples, dobles o acentos graves. Al final, siguen siendo cadenas de texto y lo importante es que sean iguales.
 :::
 

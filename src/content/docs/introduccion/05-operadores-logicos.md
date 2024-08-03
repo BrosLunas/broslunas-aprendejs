@@ -17,7 +17,7 @@ true && true // → true
 true && false // → false
 false && false // → false
 ```
-:::note
+:::tip
 Un ejemplo en la vida real sería preguntar. ¿Están todas las luces encendidas? Se comprueba cada luz y si todas están encendidas (true), entonces la respuesta es true. Si alguna luz está apagada (false), entonces la respuesta es false.
 :::
 
@@ -29,7 +29,7 @@ true || true // → true
 true || false // → true
 false || false // → false
 ```
-:::note
+:::tip
 Un ejemplo en la vida real sería preguntar. ¿Hay alguna luz encendida? Se comprueba cada luz y si alguna está encendida (true), entonces la respuesta es true. Sólo si todas las luces están apagadas (false), entonces la respuesta es false.
 :::
 
@@ -39,7 +39,7 @@ Un ejemplo en la vida real sería preguntar. ¿Hay alguna luz encendida? Se comp
 !true // → false
 !false // → true
 ```
-:::note
+:::tip
 Un ejemplo en la vida real sería pulsar el interruptor de la luz. Si la luz está encendida (true), entonces pulsando el interruptor la apagamos (false). Si la luz está apagada (false), entonces pulsando el interruptor la encendemos (true).
 :::
 
@@ -49,7 +49,7 @@ Los operadores lógicos y los operadores de comparación se pueden combinar para
 ```js title="Combinando operadores"
 2 < 3 && 3 < 4 // → true
 ```
-:::note
+:::tip
 En este caso, la expresión se evalúa como true porque 2 < 3 es true y 3 < 4 es true. Si cualquiera de las dos expresiones fuera false, entonces la expresión sería false.
 :::
 

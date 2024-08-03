@@ -9,7 +9,7 @@ In this class you will learn two other data types that, although they are simila
 
 The peculiarity of these two data types is that each has only one value. The null type can only have the value null and the undefined type can only have the value undefined.
 
-:::note
+:::tip
 It is like the boolean type that could be true and false but, in this case, it only has one value.
 
 :::

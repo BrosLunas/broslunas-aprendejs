@@ -5,7 +5,7 @@ description: console.log() is a built-in function in JavaScript that is used to 
 
 console.log() is a built-in function in JavaScript that is used to print messages to the browser or code editor console. It is mainly used for debugging code and to print variable values ​​and messages to aid in the development process.
 
-:::note
+:::tip
 In programming, a function is a set of instructions that can be used over and over again to do a specific task. Many times, functions are used to avoid repeating code and are parameterizable. Later we will have a section just for them.
 :::
 
@@ -51,7 +51,7 @@ In addition to console.log(), there are other methods you can use to print messa
 
 As you can see, the syntax is the same as console.log(), only the name of the method changes.
 
-:::note
+:::tip
 Although you can use console.log() to print any type of message, it is recommended to use the methods we just saw to print error, warning and information messages since they have a special format that makes them easier to identify.
 :::
 

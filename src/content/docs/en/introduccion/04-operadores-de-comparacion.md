@@ -30,7 +30,7 @@ Not only can we use comparators to compare numbers, we can also use them to comp
 "JavaScript" !== 'PHP' // true
 `I'm Learning JavaScript` === 'I'm Learning JavaScript' // true
 ```
-:::note
+:::tip
 Note that you can compare strings that use single quotes, double quotes, or backticks. In the end, they are still strings and the important thing is that they are equal.
 :::
 

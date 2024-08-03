@@ -90,7 +90,7 @@ In some programming languages ​​it is very common to use snake_case to name 
 
 The most common, and a good idea, is to use it in file names. For example, my_file.js. This is because some operating systems are case sensitive, so my_file.js and My_file.js are two different files.
 
-:::note
+:::tip
 There is also kebab-case, which is a form of naming that involves writing all words in lowercase and separating them with hyphens. For example: my-file.js. It is very similar to snake_case but with hyphens instead of underscores. It cannot be used to name variables, but it is common to use it in file names.
 :::
 

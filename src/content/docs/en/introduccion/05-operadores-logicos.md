@@ -13,7 +13,7 @@ true && true // → true
 true && false // → false
 false && false // → false
 ```
-:::note
+:::tip
 A real-life example would be asking. Are all the lights on? Each light is checked and if all are on (true), then the answer is true. If any light is off (false), then the answer is false.
 :::
 
@@ -25,7 +25,7 @@ true || true // → true
 true || false // → true
 false || false // → false
 ```
-:::note
+:::tip
 A real-life example would be asking. Are any lights on? Each light is checked and if any of them are on (true), then the answer is true. Only if all lights are off (false), then the answer is false.
 :::
 
@@ -35,7 +35,7 @@ A real-life example would be asking. Are any lights on? Each light is checked an
 !true // → false
 !false // → true
 ```
-:::note
+:::tip
 A real-life example would be flipping the light switch. If the light is on (true), then flipping the switch turns it off (false). If the light is off (false), then flipping the switch turns it on (true).
 :::
 
@@ -45,7 +45,7 @@ Logical operators and comparison operators can be combined to create more comple
 ```js title="Combining operators"
 2 < 3 && 3 < 4 // → true
 ```
-:::note
+:::tip
 In this case, the expression evaluates to true because 2 < 3 is true and 3 < 4 is true. If either expression were false, then the expression would be false.
 :::
 

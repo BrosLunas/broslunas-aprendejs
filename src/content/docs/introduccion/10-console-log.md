@@ -5,7 +5,7 @@ description: console.log() es una función integrada en JavaScript que se utiliz
 
 console.log() es una función integrada en JavaScript que se utiliza para imprimir mensajes en la consola del navegador o del editor de código. Se utiliza principalmente para depurar el código y para imprimir valores de variables y mensajes para ayudar en el proceso de desarrollo.
 
-:::note
+:::tip
 En programación, una función es un conjunto de instrucciones que se pueden usar una y otra vez para hacer una tarea específica. Muchas veces, las funciones se utilizan para evitar repetir código y son parametrizables. Más adelante tendremos una sección sólo para ellas.
 :::
 
@@ -51,7 +51,7 @@ Además de console.log(), existen otros métodos que puedes utilizar para imprim
 
 Como ves, la sintaxis es la misma que console.log(), sólo cambia el nombre del método.
 
-:::note
+:::tip
 Aunque puedes usar console.log() para imprimir cualquier tipo de mensaje, es recomendable utilizar los métodos que acabamos de ver para imprimir mensajes de error, advertencia e información ya que tienen un formato especial que los hace más fáciles de identificar.
 :::
 

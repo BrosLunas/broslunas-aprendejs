@@ -54,7 +54,7 @@ Al usar los operadores aritméticos, el resultado siempre será un número. Por 
 2 % 2 // 0
 3 ** 3 // 27
 ```	
-:::note
+:::tip
 ¿Qué significa el // que ves en los ejemplos? Es un comentario. En JavaScript, los comentarios se escriben con // y todo lo que escribas después de // será ignorado por el navegador. Los comentarios son muy útiles para explicar qué hace nuestro código.
 :::
 

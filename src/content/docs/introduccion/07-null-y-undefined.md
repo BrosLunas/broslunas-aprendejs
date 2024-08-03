@@ -9,7 +9,7 @@ En esta clase vas a aprender otros dos tipos de datos que, aunque son similares,
 
 La particularidad de estos dos tipos de datos es que cada uno sólo tiene un valor. El tipo null sólo puede tener el valor null y el tipo undefined sólo puede tener el valor undefined.
 
-:::note
+:::tip
 Es como el tipo booleano que podía ser true y false pero, en este caso, sólo tiene un valor.
 
 :::

@@ -48,7 +48,7 @@ When using arithmetic operators, the result will always be a number. For example
 2 % 2 // 0
 3 ** 3 // 27
 ```
-:::note
+:::tip
 What does the // mean that you see in the examples? It's a comment. In JavaScript, comments are written with // and anything you write after // will be ignored by the browser. Comments are very useful to explain what our code does.
 :::
 

@@ -21,7 +21,7 @@
     "page.draft": "This content is a draft and will not be included in production builds.",
     "404.text": "Page not found. Check the URL or try using the search bar.",
     "aside.note": "Note",
-    "aside.tip": "Tip",
+    "aside.tip": "Info",
     "aside.caution": "Caution",
     "aside.danger": "Danger",
     "fileTree.directory": "Directory",

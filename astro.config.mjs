@@ -22,6 +22,10 @@ export default defineConfig({
           lang: 'en',
         },
       },
+      editLink: {
+        baseUrl: 'https://github.com/broslunas/broslunas-aprendejs/edit/main/',
+      },
+
     logo: {
       src: './src/assets/ion-logo.svg'
     },

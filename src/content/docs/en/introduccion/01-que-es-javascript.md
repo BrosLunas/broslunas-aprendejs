@@ -6,7 +6,7 @@ description: JavaScript is one of the most popular and widely used programming l
 ## Information
 JavaScript is one of the most popular and widely used programming languages ​​in the world. It was created in 1995 to provide interactivity to web pages and has since evolved into a general-purpose programming language. In other words, it can be used for almost anything.
 
-:::note
+:::tip
 What is programming? It is the act of building a program or set of instructions to tell a computer what and how we want something to do. It's no different than when we "program" the washing machine, only instead of pressing a button, we're going to use text. This text is known as "code."
 :::
 

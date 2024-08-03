@@ -10,7 +10,7 @@ description: JavaScript es uno de los lenguajes de programación más usados y p
 ## Información
 JavaScript es uno de los lenguajes de programación más usados y populares del mundo. Nació en 1995 para darle interactividad a las páginas web y desde entonces ha evolucionado hasta convertirse en un lenguaje de programación de propósito general. Dicho de otra forma: se puede usar casi para cualquier cosa.
 
-:::note
+:::tip
 ¿Qué es programar? Es el acto de construir un programa o conjunto de instrucciones para decirle a una computadora qué y cómo queremos que haga algo. No es diferente a cuando "programamos" la lavadora, sólo que en vez de pulsar un botón, vamos a usar texto. A este texto se le conoce como "código".
 :::
 
