@@ -28,7 +28,6 @@ export default defineConfig({
 
     logo: {
       src: './src/assets/logo.png',
-      replacesTitle: true,
     },
     social: {
       instagram: 'https://link.broslunas.com/rss/instagram',
