@@ -40,20 +40,44 @@ export default defineConfig({
       },
       link: '/'
     }, {
-      label: '[book] Introducción',
+      label: 'Introducción',
       translations: {
-        en: '[book] Introduction'
+        en: 'Introduction'
       },
       autogenerate: {
         directory: 'introduccion'
       }
     }, {
-      label: '[list] Estructuras de control',
+      label: 'Estructuras de control',
       translations: {
-        en: '[list] Control structures'
+        en: 'Control structures'
       },
       autogenerate: {
         directory: 'estructuras-de-control'
+      }
+    }, {
+      label: 'Funciones',
+      translations: {
+        en: 'Functions'
+      },
+      autogenerate: {
+        directory: 'funciones'
+      }
+    }, {
+      label: 'Arrays',
+      translations: {
+        en: 'Arrays'
+      },
+      autogenerate: {
+        directory: 'arrays'
+      }
+    }, {
+      label: 'Objetos',
+      translations: {
+        en: 'Objects'
+      },
+      autogenerate: {
+        directory: 'objetos'
       }
     }, {
       label: '[book] Referencias',
