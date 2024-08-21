@@ -31,7 +31,7 @@ export default defineConfig({
     },
     social: {
       instagram: 'https://link.broslunas.com/rss/instagram',
-      github: 'https://github.com/Broslunas'
+      github: 'https://github.com/Broslunas',
     },
     sidebar: [{
       label: '[home] Inicio',
